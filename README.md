@@ -9,7 +9,6 @@
 🔹 Dedicated to optimizing Infrastructure and improving operational efficiency in Cloud environments.
 
 ## **Operating systems I Use**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -21,7 +20,6 @@
 
 
 ## **DevOps Tools I Use**
-
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
@@ -32,41 +30,42 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+  <img src="https://img.shields.io/badge/Trivy-2D5FAD?style=for-the-badge&logo=Trivy&logoColor=white)">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Trivy-2D5FAD?style=for-the-badge&logo=Trivy&logoColor=white)">  
 </p>
 
 ## **Monitoring & Logging Tools I Use**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
-![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+## **Scripting, Configuration & Infrastructure Languages I Use**
+<p align="left">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-CC2927?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HCL%20(Terraform)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
 
-## **Scripting,Configuration & Infrastructure Languages I Use**
+## 🚀 **Leveling Up in DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)  
-![YAML](https://img.shields.io/badge/YAML-CC2927?style=for-the-badge&logo=yaml&logoColor=white)  
-![HCL](https://img.shields.io/badge/HCL%20(Terraform)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+## 🎓 **Certifications**
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCI%20Foundations-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Introduction_to_Kubernetes-Simplilearn-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-
-### 🚀 Leveling Up in DevOps
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)  
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) 
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-## 🎓 Certifications
-
-![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Oracle Cloud Infrastructure Foundations Associate](https://img.shields.io/badge/OCI%20Foundations-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
-![Introduction to Kubernetes](https://img.shields.io/badge/Introduction_to_Kubernetes-Simplilearn-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-
-
-  
 ## 🚀 Featured Projects  
 
 ### 🔹 Multi-Tier Architecture Deployment on AWS with Terraform  
