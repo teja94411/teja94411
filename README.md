@@ -68,6 +68,12 @@
   <img src="https://img.shields.io/badge/Introduction_to_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
+## 🚀 Seamless Integrations Achieved
+<p align="left">
+  <img src="https://img.shields.io/badge/Jenkins--Slack--Integration-yellow?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins--Terraform--Integration-blue?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
 ## 🚀 Featured Projects  
 
 ### 🔹 Multi-Tier Architecture Deployment on AWS with Terraform  
