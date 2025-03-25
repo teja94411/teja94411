@@ -71,7 +71,7 @@
 ## 🚀 Seamless Integrations Achieved
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins--Slack--Integration-yellow?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins--Terraform--Integration-blue?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform--Slack--Integration-green?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
 ## 🚀 Featured Projects  
