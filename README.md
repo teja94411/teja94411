@@ -92,6 +92,27 @@
    - **Tech Stack**: Docker Compose, Docker Swarm, Docker Networks, Docker Volumes, Jenkins  
    - **Description**: Built a full-stack application with a CI/CD pipeline, leveraging Docker for containerized deployments, networking, and storage management.
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teja94411&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+---
+
+## 🌱 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Visitor Count](https://profile-counter.glitch.me/{teja94411}/count.svg)
+---
+
+###
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-teja-thota-a540931a5/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tejaroyal) 
