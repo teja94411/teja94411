@@ -1,4 +1,4 @@
-  # 👋 Hi, I'm Teja  
+  # 👋 Hi, I'm Teja   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://teja98123.netlify.app/) 
   
 🌤️ Cloud & DevOps Engineer | Tech Blogger   
 
