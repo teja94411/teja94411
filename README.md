@@ -1,4 +1,4 @@
-  # 👋 Hi, I'm Teja   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://teja98123.netlify.app/) 
+  # 👋 Hi, I'm Teja   
   
 🌤️ Cloud & DevOps Engineer | Tech Blogger   
 
@@ -114,6 +114,7 @@
 ###
 
 ## 📫 Connect with Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://teja98123.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-teja-thota-a540931a5/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tejaroyal) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tejaroyal.hashnode.dev/)
