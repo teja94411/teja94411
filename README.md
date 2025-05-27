@@ -1,6 +1,6 @@
   # 👋 Hi, I'm Teja   
   
-🌤️ Cloud & DevOps Engineer | Tech Blogger   
+🌤️ Cloud Opeartions (AWS,Azure) & DevOps Engineer | Tech Blogger   
 
 🔹 Solving cloud challenges through Automation, Scalability, and Efficient Deployment Strategies.
 
